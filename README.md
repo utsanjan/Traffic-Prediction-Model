@@ -3,6 +3,7 @@
 [![](https://img.shields.io/github/license/utsanjan/Traffic-Prediction-Model?logoColor=red&style=plastic)](https://github.com/utsanjan/Traffic-Prediction-Model/blob/main/LICENSE)‎ ‎
 [![](https://img.shields.io/github/languages/count/utsanjan/Traffic-Prediction-Model?style=plastic)](https://github.com/utsanjan/Traffic-Prediction-Model/search?l=shell)‎ ‎
 [![](https://img.shields.io/github/languages/top/utsanjan/Traffic-Prediction-Model?color=light%20green&style=plastic)](https://github.com/utsanjan/Traffic-Prediction-Model)‎ ‎ <br>
+
 The traffic prediction model is built with python using Machine learning and Image processing. Jupyter Notebook is used as the base IDE for making this project. It detects the number of vehicle passing a red imaginary line also known as the ROI (Region of interest) and predicts the traffic density in that specific area. It also save details like the car's color serially in a csv file and at the same time also saves individual images of each detected vehicles inside a folder named **detected_vehicles** in png format.<br>
 
 > ### Points to be noted:
