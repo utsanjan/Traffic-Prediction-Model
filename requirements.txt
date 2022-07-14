@@ -1,7 +1,7 @@
 numpy
 scipy
 scikit-image
-tensorflow-gpu==2.5.3
+tensorflow-gpu==2.7.2
 opencv-python
 
 
